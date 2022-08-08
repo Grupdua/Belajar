@@ -14,6 +14,9 @@ public class Suhu {
         int Suhu = 76;
         System.out.println("Suhunya adalah: " + Suhu);
 
+	  if (Suhu < 0) {
+            System.out.println("Es Batu");
+        } 
         if (Suhu == 0) {
             System.out.println("Beku");
         } else if (Suhu > 0 && Suhu < 30) {
