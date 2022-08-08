@@ -21,4 +21,7 @@ public class PerulanganWhile {
         System.out.println("Anda sudah melakukan perulangan sebanyak "
                 + counter + " kali");
     }
+	
+	System.out.println("Izin pull request ya mbak Risya");
+	// plus comment
 }
