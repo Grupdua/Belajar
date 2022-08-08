@@ -1,4 +1,5 @@
 package Main;
+//nambah comment dwiki
 
 public class Buku {// variable dari buku
     String kodeBuku;
@@ -110,6 +111,4 @@ public class Buku {// variable dari buku
         this.covered = covered;
 
     }
-
-
 }
