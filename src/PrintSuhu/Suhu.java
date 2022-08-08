@@ -7,6 +7,8 @@ package PrintSuhu;
 //      suhu >=70 dan <100 -> print hampir mendidih
 //      suhu >= 100 dan <120->  print mendidih
 //      suhu >= 120  ->  print gosong
+// commen123454
+// dfjgse
 
 public class Suhu {
     public static void main(String args[]) {
@@ -31,3 +33,4 @@ public class Suhu {
         }
     }
 }
+//nilai 100
