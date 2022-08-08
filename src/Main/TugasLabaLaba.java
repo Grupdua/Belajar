@@ -1,5 +1,6 @@
 package Main;
 
+//tugas buat jaring laba-laba
 public class TugasLabaLaba {
     public static void main(String[] args) {
         int a = 11;
