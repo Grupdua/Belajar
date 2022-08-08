@@ -31,3 +31,4 @@ public class Suhu {
         }
     }
 }
+//nilai 100
