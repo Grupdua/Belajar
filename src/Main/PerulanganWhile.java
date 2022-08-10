@@ -1,7 +1,7 @@
 package Main;
 
 import java.util.Scanner;
-
+// cek perubahan
 public class PerulanganWhile {
     public static void main(String[] args) {
 // membuat variabel dan scanner
